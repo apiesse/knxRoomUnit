@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name Diodes_Incorporated)(type KiCad)(uri ${KIPRJMOD}/libs/Diodes_Incorperated.pretty)(options "")(descr ""))
+  (lib (name Ettinger)(type KiCad)(uri ${KIPRJMOD}/libs/Ettinger.pretty)(options "")(descr ""))
+  (lib (name Graphics)(type KiCad)(uri ${KIPRJMOD}/libs/Graphics.pretty)(options "")(descr ""))
+  (lib (name ON_Semiconductor)(type KiCad)(uri ${KIPRJMOD}/libs/ON_Semiconductor.pretty)(options "")(descr ""))
+  (lib (name Osram)(type KiCad)(uri ${KIPRJMOD}/libs/Osram.pretty)(options "")(descr ""))
+  (lib (name Phoenix_Contact)(type KiCad)(uri ${KIPRJMOD}/libs/Phoenix_Contact.pretty)(options "")(descr ""))
+  (lib (name Samtec)(type KiCad)(uri ${KIPRJMOD}/libs/Samtec.pretty)(options "")(descr ""))
+  (lib (name Wurth-Elektronik)(type KiCad)(uri ${KIPRJMOD}/libs/Wurth-Elektronik.pretty)(options "")(descr ""))
+  (lib (name WS-TASV)(type Eagle)(uri "${KIPRJMOD}/libs/Eagle_WS-TASV (rev21c).lbr")(options "")(descr ""))
+  (lib (name WE-XTAL)(type Eagle)(uri "${KIPRJMOD}/libs/Eagle_WE-XTAL (rev20b).lbr")(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDA7439
+D 3 band tone controlAudio processor
+F https://www.st.com/resource/en/datasheet/tda7439ds.pdf
+$ENDCMP
+#
+#End Doc Library
