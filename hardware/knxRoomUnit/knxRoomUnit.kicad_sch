@@ -53,7 +53,7 @@
     (stroke (width 0) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 00000000-0000-0000-0000-00006045b179)
-    (property "Sheetname" "MCU" (at 21.59 20.8784 0)
+    (property "Sheetname" "MCU-KNX" (at 21.59 20.8784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "knxRoomSensor_MCU.kicad_sch" (at 21.59 69.1646 0)
