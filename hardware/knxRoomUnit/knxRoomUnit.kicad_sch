@@ -56,7 +56,7 @@
     (property "Sheetname" "MCU-KNX" (at 21.59 20.8784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "knxRoomSensor_MCU.kicad_sch" (at 21.59 69.1646 0)
+    (property "Sheetfile" "knxRoomUnit_MCU-KNX.kicad_sch" (at 21.59 69.1646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
