@@ -1,9 +1,4 @@
 (sym_lib_table
-  (lib (name Analog_Devices)(type Legacy)(uri "${KIPRJMOD}/libs/Analog Devices.lib")(options "")(descr ""))
-  (lib (name Graphic)(type Legacy)(uri ${KIPRJMOD}/libs/Graphic.lib)(options "")(descr ""))
-  (lib (name ON_Semiconductor)(type Legacy)(uri "${KIPRJMOD}/libs/ON Semiconductor.lib")(options "")(descr ""))
-  (lib (name SiLabs)(type Legacy)(uri ${KIPRJMOD}/libs/SiLabs.lib)(options "")(descr ""))
-  (lib (name ST_Microelectronics)(type Legacy)(uri "${KIPRJMOD}/libs/ST Microelectronics.lib")(options "")(descr ""))
-  (lib (name Texas_Instruments)(type Legacy)(uri "${KIPRJMOD}/libs/Texas Instruments.lib")(options "")(descr ""))
-  (lib (name VCNL4040M3OE)(type Legacy)(uri ${KIPRJMOD}/libs/VCNL4040M3OE.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "OpenKNX")(type "Legacy")(uri "${KIPRJMOD}/libs/OpenKNX-KiCad-Lib/OpenKNX_Symbol.lib")(options "")(descr ""))
 )
