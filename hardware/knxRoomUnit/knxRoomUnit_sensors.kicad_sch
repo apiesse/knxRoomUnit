@@ -1702,7 +1702,7 @@
     (property "Value" "0" (at 41.91 29.21 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 40.132 27.94 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (at 40.132 27.94 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301420_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf" (at 41.91 27.94 0)
@@ -1717,8 +1717,8 @@
     (property "PartNumber" "0402WGF0000TCE" (at 41.91 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bf587044-6ed0-4c39-a9b8-78f34b164c22))
-    (pin "2" (uuid 489de6ff-3ae7-44df-a780-e65fad1213f4))
+    (pin "1" (uuid 8f34833b-86ce-430f-8fad-aa7a280e2f92))
+    (pin "2" (uuid d39da2d2-de88-4e54-9205-2e851fe4222a))
     (instances
       (project "knxRoomUnit"
         (path "/699feae1-8cdd-4d2b-947f-f24849c73cdb/00000000-0000-0000-0000-00006044aac6"
@@ -1737,7 +1737,7 @@
     (property "Value" "0" (at 68.58 46.99 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 68.58 48.768 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (at 68.58 48.768 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301420_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf" (at 68.58 46.99 0)
@@ -1752,8 +1752,8 @@
     (property "PartNumber" "0402WGF0000TCE" (at 68.58 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 14672f38-937d-49bf-957e-6a45f54f7eb3))
-    (pin "2" (uuid 53547d5d-a30d-4960-bab9-4153dfd96fae))
+    (pin "1" (uuid 3b4adf13-9553-4671-8142-4884f18de07c))
+    (pin "2" (uuid a8320d14-d0be-432e-9881-3d5963717b6d))
     (instances
       (project "knxRoomUnit"
         (path "/699feae1-8cdd-4d2b-947f-f24849c73cdb/00000000-0000-0000-0000-00006044aac6"
@@ -1772,7 +1772,7 @@
     (property "Value" "0" (at 68.58 41.91 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 68.58 43.688 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (at 68.58 43.688 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301420_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf" (at 68.58 41.91 0)
@@ -1787,8 +1787,8 @@
     (property "PartNumber" "0402WGF0000TCE" (at 68.58 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e8eba793-f52b-452d-92ff-9b45a4d56266))
-    (pin "2" (uuid 0d6f2783-4f3d-4518-aa84-6973545398bb))
+    (pin "1" (uuid df38aa25-3c9e-4e02-816b-f0825fa64da4))
+    (pin "2" (uuid 541e1fe3-2e44-41b4-856e-aa986c2ffc6f))
     (instances
       (project "knxRoomUnit"
         (path "/699feae1-8cdd-4d2b-947f-f24849c73cdb/00000000-0000-0000-0000-00006044aac6"
@@ -1807,7 +1807,7 @@
     (property "Value" "0" (at 163.83 30.48 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 162.052 29.21 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (at 162.052 29.21 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301420_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf" (at 163.83 29.21 0)
@@ -1822,8 +1822,8 @@
     (property "PartNumber" "0402WGF0000TCE" (at 163.83 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b6582fa-c154-491c-bc27-f0a83635ac5c))
-    (pin "2" (uuid 21eac394-4ee8-4786-be6a-d44ac78e1e78))
+    (pin "1" (uuid dc2e9f1f-75dc-4712-8df1-cc643f69af12))
+    (pin "2" (uuid 947c7ef0-5882-4723-9750-ae61a3983559))
     (instances
       (project "knxRoomUnit"
         (path "/699feae1-8cdd-4d2b-947f-f24849c73cdb/00000000-0000-0000-0000-00006044aac6"
@@ -1842,7 +1842,7 @@
     (property "Value" "0" (at 231.14 40.64 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 231.14 42.418 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (at 231.14 42.418 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301420_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf" (at 231.14 40.64 0)
@@ -1857,8 +1857,8 @@
     (property "PartNumber" "0402WGF0000TCE" (at 231.14 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4146021e-8361-4dcf-b196-268aab523674))
-    (pin "2" (uuid d5107761-bf79-410b-b917-9c7c57a91e5f))
+    (pin "1" (uuid ce3b5a81-87a9-4c1e-9cd4-d1305bfbb9c9))
+    (pin "2" (uuid 1853e8ba-dc7c-4570-b5ef-a1788154786e))
     (instances
       (project "knxRoomUnit"
         (path "/699feae1-8cdd-4d2b-947f-f24849c73cdb/00000000-0000-0000-0000-00006044aac6"
@@ -1877,7 +1877,7 @@
     (property "Value" "0" (at 231.14 45.72 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 231.14 47.498 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (at 231.14 47.498 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301420_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf" (at 231.14 45.72 0)
@@ -1892,8 +1892,8 @@
     (property "PartNumber" "0402WGF0000TCE" (at 231.14 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 98562e96-77c9-4e51-8b57-0334aa691e65))
-    (pin "2" (uuid 02145a1e-81e1-4505-a724-ba00d6a33c4f))
+    (pin "1" (uuid 659c845a-92da-49ce-92d6-1e4b91c66abc))
+    (pin "2" (uuid f0a27a1d-c666-4cfd-a5b7-003c47d60a66))
     (instances
       (project "knxRoomUnit"
         (path "/699feae1-8cdd-4d2b-947f-f24849c73cdb/00000000-0000-0000-0000-00006044aac6"
@@ -1912,7 +1912,7 @@
     (property "Value" "0" (at 231.14 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 231.14 52.578 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (at 231.14 52.578 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301420_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf" (at 231.14 50.8 0)
@@ -1927,8 +1927,8 @@
     (property "PartNumber" "0402WGF0000TCE" (at 231.14 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0b049efc-7178-4e85-8878-ba17a15cb966))
-    (pin "2" (uuid 11327d10-b295-44ab-b185-74d462e85ac6))
+    (pin "1" (uuid 0794dca0-c690-4c1d-bcb1-920568493cb9))
+    (pin "2" (uuid 083f9360-f10d-4a1f-b68f-92687a4a8fd4))
     (instances
       (project "knxRoomUnit"
         (path "/699feae1-8cdd-4d2b-947f-f24849c73cdb/00000000-0000-0000-0000-00006044aac6"
@@ -1962,8 +1962,8 @@
     (property "PartNumber" "0402WGF0000TCE" (at 24.13 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0fc058d4-2f8d-4fd7-ac33-424b6c6fd7d9))
-    (pin "2" (uuid d00de6a1-81b9-4610-afd0-6f8000defb36))
+    (pin "1" (uuid ebfaec81-ba0e-40ad-a75a-0f67c90fabe0))
+    (pin "2" (uuid 5c225232-a36b-4e0b-bb82-83234e2c14c8))
     (instances
       (project "knxRoomUnit"
         (path "/699feae1-8cdd-4d2b-947f-f24849c73cdb/00000000-0000-0000-0000-00006044aac6"
@@ -2020,7 +2020,7 @@
     (property "Value" "0" (at 68.58 52.07 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 68.58 53.848 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric" (at 68.58 53.848 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810301420_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf" (at 68.58 52.07 0)
@@ -2035,8 +2035,8 @@
     (property "PartNumber" "0402WGF0000TCE" (at 68.58 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0f6164e5-f648-4fd2-90a3-ca5201cb1e11))
-    (pin "2" (uuid 1477821b-436e-4dfa-83ba-ddda420a0ee3))
+    (pin "1" (uuid 13abae66-7562-4a7e-999b-1344da781cf1))
+    (pin "2" (uuid 135b1176-f643-409d-b300-f09c9d44398d))
     (instances
       (project "knxRoomUnit"
         (path "/699feae1-8cdd-4d2b-947f-f24849c73cdb/00000000-0000-0000-0000-00006044aac6"
