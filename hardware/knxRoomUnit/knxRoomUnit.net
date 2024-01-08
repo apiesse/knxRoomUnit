@@ -1,6 +1,6 @@
 (export (version "E")
   (design
-    (source "C:\\code\\git\\knxRoomUnit\\hardware\\KnxRoomUnit\\knxRoomUnit.kicad_sch")
+    (source "C:\\code\\git\\knxRoomUnit\\hardware\\knxRoomUnit\\knxRoomUnit.kicad_sch")
     (date "8/22/2023 11:10:29 AM")
     (tool "Eeschema 7.0.7")
     (sheet (number "1") (name "/") (tstamps "/")
@@ -1496,7 +1496,7 @@
     (library (logical "Diode")
       (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/Diode.kicad_sym"))
     (library (logical "OpenKNX")
-      (uri "C:\\code\\git\\knxRoomUnit\\hardware\\KnxRoomUnit/libs/OpenKNX-KiCad-Lib/OpenKNX_Symbol.lib"))
+      (uri "C:\\code\\git\\knxRoomUnit\\hardware\\knxRoomUnit/libs/OpenKNX-KiCad-Lib/OpenKNX_Symbol.lib"))
     (library (logical "RF_Module")
       (uri "C:\\Program Files\\KiCad\\7.0\\share\\kicad\\symbols\\/RF_Module.kicad_sym"))
     (library (logical "Sensor")

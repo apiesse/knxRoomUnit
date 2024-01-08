@@ -1,3 +1,3 @@
-[submodule "hardware\\KnxRoomUnit\\libs\\OpenKNX-KiCad-Lib"]
-	path = hardware\\KnxRoomUnit\\libs\\OpenKNX-KiCad-Lib
+[submodule "hardware\\knxRoomUnit\\libs\\OpenKNX-KiCad-Lib"]
+	path = hardware\\knxRoomUnit\\libs\\OpenKNX-KiCad-Lib
 	url = https://github.com/OpenKNX/OpenKNX-KiCad-Lib.git
