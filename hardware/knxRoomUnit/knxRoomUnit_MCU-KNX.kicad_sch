@@ -6,8 +6,9 @@
 
   (title_block
     (title "knxRoomUnit")
-    (date "2023-08-22")
-    (rev "r1d0")
+    (date "2024-01-21")
+    (rev "r1d1")
+    (company "MP")
   )
 
   (lib_symbols
